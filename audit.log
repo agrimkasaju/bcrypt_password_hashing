@@ -1,0 +1,2 @@
+{"timestamp": "2025-10-30T15:46:07", "user": "bob", "event": "login_failed", "details": "invalid password"}
+{"timestamp": "2025-10-30T15:46:07", "user": "alice", "event": "view", "target": "customer_A.txt", "outcome": "granted"}
